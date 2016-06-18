@@ -1,0 +1,9 @@
+com\kaishengit\servlet\HomeList\HomeList.class
+com\kaishengit\entity\Page.class
+com\kaishengit\entity\Movie.class
+com\kaishengit\service\MovieService.class
+com\kaishengit\util\DbHelp.class
+com\kaishengit\util\Config.class
+com\kaishengit\util\ConnectionManager.class
+com\kaishengit\exception\DataAccessException.class
+com\kaishengit\dao\MovieDao.class
